@@ -85,4 +85,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Pygame Library
 - Numpy Library
 
-## MAXWELL GUILLERMO 
+## BY MAXWELL GUILLERMO 
